@@ -8,7 +8,7 @@ Project @ Roux Institute at Northeastern University in collaboration with Kinola
 Under the supervision of Professor Bruce Maxwell
 Background: The project is aimed to develop an automatic detection and labelling of shot-types in film to help film studies at kino lab. 
 Methods: Transfer Learning 
-* Refer to the Presentation.ppt file for more details
+* Refer to the Presentation.pptx file for more details
 
 Files: 
 getframe.py : writes the frame and its annotations at the frame number specified by the user to the directory
