@@ -1,0 +1,27 @@
+# command for cleaning up the testset
+# make clean 
+.PHONY: clean_testset clean_trainset clean_analysisset testset trainset analysisset
+
+clean_testset:
+	rm -f testset/CU/*jpg
+	rm -f testset/non-CU/*jpg
+	rm -f testset/test_set_annotations.csv
+
+clean_trainset:
+	rm -f trainset/CU/*jpg
+	rm -f trainset/non-CU/*jpg
+	rm -f trainset/train_set_annotations.csv
+
+clean_analysisset:
+	rm -f analysisset/CU/*jpg
+	rm -f analysisset/non-CU/*jpg
+	rm -f analysisset/analysis_set_annotations.csv
+
+testset:
+	python3 test_frames.py /export/groups/kino/data/kino testset
+
+trainset:
+	python3 trainset/trainset.py /export/groups/kino/data/kino trainset
+
+analysisset:
+	python3 analysisset/analysisset.py /export/groups/kino/data/kino analysisset

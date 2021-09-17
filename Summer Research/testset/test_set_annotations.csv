@@ -1,0 +1,1001 @@
+Film Title,Clip Title, Clip ID,Frame Number,Image Name,Close-up code I
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,13,testset/CU/924_000013.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,377,testset/CU/924_000377.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,1787,testset/CU/924_001787.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,2595,testset/CU/924_002595.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,4372,testset/CU/924_004372.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,4496,testset/CU/924_004496.jpg,CU
+A Special Day,The End of the Night,1293,316,testset/CU/1293_000316.jpg,CU
+A Special Day,The End of the Night,1293,1256,testset/CU/1293_001256.jpg,CU
+A Special Day,The End of the Night,1293,1781,testset/CU/1293_001781.jpg,CU
+A Special Day,The End of the Night,1293,3023,testset/CU/1293_003023.jpg,CU
+A Special Day,The End of the Night,1293,3660,testset/CU/1293_003660.jpg,CU
+A Special Day,The End of the Night,1293,4002,testset/CU/1293_004002.jpg,CU
+Battleship Potemkin,Drama on Deck,31,198,testset/CU/31_000198.jpg,CU
+Battleship Potemkin,Drama on Deck,31,408,testset/CU/31_000408.jpg,CU
+Battleship Potemkin,Drama on Deck,31,489,testset/CU/31_000489.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1079,testset/CU/31_001079.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1434,testset/CU/31_001434.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1526,testset/CU/31_001526.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1563,testset/CU/31_001563.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1923,testset/CU/31_001923.jpg,CU
+Battleship Potemkin,Drama on Deck,31,2261,testset/CU/31_002261.jpg,CU
+Battleship Potemkin,Drama on Deck,31,2337,testset/CU/31_002337.jpg,CU
+Battleship Potemkin,Drama on Deck,31,2792,testset/CU/31_002792.jpg,CU
+Battleship Potemkin,Drama on Deck,31,2987,testset/CU/31_002987.jpg,CU
+Battleship Potemkin,Drama on Deck,31,3011,testset/CU/31_003011.jpg,CU
+Battleship Potemkin,Drama on Deck,31,3151,testset/CU/31_003151.jpg,CU
+Battleship Potemkin,Drama on Deck,31,3166,testset/CU/31_003166.jpg,CU
+Battleship Potemkin,Drama on Deck,31,3949,testset/CU/31_003949.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,709,testset/CU/1303_000709.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1494,testset/CU/1303_001494.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1915,testset/CU/1303_001915.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2286,testset/CU/1303_002286.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,10383,testset/CU/1303_010383.jpg,CU
+Schindler's List,The Girl in Red,242,6,testset/CU/242_000006.jpg,CU
+Schindler's List,The Girl in Red,242,341,testset/CU/242_000341.jpg,CU
+Schindler's List,The Girl in Red,242,677,testset/CU/242_000677.jpg,CU
+Schindler's List,The Girl in Red,242,941,testset/CU/242_000941.jpg,CU
+Schindler's List,The Girl in Red,242,1682,testset/CU/242_001682.jpg,CU
+Schindler's List,The Girl in Red,242,2287,testset/CU/242_002287.jpg,CU
+Schindler's List,The Girl in Red,242,2877,testset/CU/242_002877.jpg,CU
+Schindler's List,The Girl in Red,242,3323,testset/CU/242_003323.jpg,CU
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7048,testset/CU/1297_007048.jpg,CU
+Contagion,Beth Dies,738,76,testset/CU/738_000076.jpg,CU
+Contagion,Beth Dies,738,101,testset/CU/738_000101.jpg,CU
+Contagion,Beth Dies,738,130,testset/CU/738_000130.jpg,CU
+Contagion,Beth Dies,738,218,testset/CU/738_000218.jpg,CU
+Contagion,Beth Dies,738,282,testset/CU/738_000282.jpg,CU
+Contagion,Beth Dies,738,332,testset/CU/738_000332.jpg,CU
+Contagion,Beth Dies,738,376,testset/CU/738_000376.jpg,CU
+Contagion,Beth Dies,738,407,testset/CU/738_000407.jpg,CU
+Contagion,Beth Dies,738,472,testset/CU/738_000472.jpg,CU
+Contagion,Beth Dies,738,511,testset/CU/738_000511.jpg,CU
+Contagion,Beth Dies,738,540,testset/CU/738_000540.jpg,CU
+Umberto D,At The Dog Pound,1316,5304,testset/CU/1316_005304.jpg,CU
+Umberto D,At The Dog Pound,1316,5360,testset/CU/1316_005360.jpg,CU
+Snow White and the Seven Dwarfs,The Transformation,255,321,testset/CU/255_000321.jpg,CUT
+Snow White and the Seven Dwarfs,The Transformation,255,504,testset/CU/255_000504.jpg,CUT
+Snow White and the Seven Dwarfs,The Transformation,255,1421,testset/CU/255_001421.jpg,CUT
+Snow White and the Seven Dwarfs,The Transformation,255,2201,testset/CU/255_002201.jpg,CUT
+The Last Laugh,Drunken Dreams,344,583,testset/CU/344_000583.jpg,SS
+The Last Laugh,Drunken Dreams,344,663,testset/CU/344_000663.jpg,SS
+The Last Laugh,Drunken Dreams,344,1906,testset/CU/344_001906.jpg,SS
+The Last Laugh,Drunken Dreams,344,2460,testset/CU/344_002460.jpg,SS
+The Last Laugh,Drunken Dreams,344,3336,testset/CU/344_003336.jpg,SS
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,810,testset/CU/1324_000810.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2312,testset/CU/1324_002312.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2896,testset/CU/1324_002896.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3176,testset/CU/1324_003176.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3755,testset/CU/1324_003755.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,439,testset/CU/146_000439.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,1611,testset/CU/146_001611.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,1780,testset/CU/146_001780.jpg,CU
+Ex Machina,Eva Escapes,685,882,testset/CU/685_000882.jpg,CU
+Ex Machina,Eva Escapes,685,1230,testset/CU/685_001230.jpg,CU
+Ex Machina,Eva Escapes,685,2417,testset/CU/685_002417.jpg,CU
+Ex Machina,Eva Escapes,685,3357,testset/CU/685_003357.jpg,CU
+Ex Machina,Eva Escapes,685,3576,testset/CU/685_003576.jpg,CU
+Ex Machina,Eva Escapes,685,3978,testset/CU/685_003978.jpg,CU
+Ex Machina,Eva Escapes,685,4456,testset/CU/685_004456.jpg,CU
+Ex Machina,Eva Escapes,685,6699,testset/CU/685_006699.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,1190,testset/CU/144_001190.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,1416,testset/CU/144_001416.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,1774,testset/CU/144_001774.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,1948,testset/CU/144_001948.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2107,testset/CU/144_002107.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2432,testset/CU/144_002432.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2553,testset/CU/144_002553.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2651,testset/CU/144_002651.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2930,testset/CU/144_002930.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,2999,testset/CU/144_002999.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3057,testset/CU/144_003057.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3211,testset/CU/144_003211.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3260,testset/CU/144_003260.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3419,testset/CU/144_003419.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3498,testset/CU/144_003498.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3761,testset/CU/144_003761.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3803,testset/CU/144_003803.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3890,testset/CU/144_003890.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3986,testset/CU/144_003986.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,4017,testset/CU/144_004017.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,4364,testset/CU/144_004364.jpg,CU
+Dogman,The Bully in the Cage,1442,58,testset/CU/1442_000058.jpg,SC
+Dogman,The Bully in the Cage,1442,1822,testset/CU/1442_001822.jpg,SC
+Dogman,The Bully in the Cage,1442,2136,testset/CU/1442_002136.jpg,SC
+Dogman,The Bully in the Cage,1442,3603,testset/CU/1442_003603.jpg,SC
+Dogman,The Bully in the Cage,1442,3967,testset/CU/1442_003967.jpg,SC
+Dogman,The Bully in the Cage,1442,4228,testset/CU/1442_004228.jpg,SC
+Dogman,The Bully in the Cage,1442,4645,testset/CU/1442_004645.jpg,SC
+Exit Through the Gift Shop,Thierry's Process,136,487,testset/CU/136_000487.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,525,testset/CU/136_000525.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,686,testset/CU/136_000686.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,732,testset/CU/136_000732.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,786,testset/CU/136_000786.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,867,testset/CU/136_000867.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,928,testset/CU/136_000928.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,955,testset/CU/136_000955.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,2154,testset/CU/136_002154.jpg,CU
+Umberto D.,Time to Go,1322,871,testset/CU/1322_000871.jpg,CUZ
+Umberto D.,Time to Go,1322,946,testset/CU/1322_000946.jpg,CUZ
+Umberto D.,Time to Go,1322,1063,testset/CU/1322_001063.jpg,CUZ
+Umberto D.,Time to Go,1322,1084,testset/CU/1322_001084.jpg,CUZ
+Umberto D.,Time to Go,1322,1202,testset/CU/1322_001202.jpg,CUZ
+Umberto D.,Time to Go,1322,4784,testset/CU/1322_004784.jpg,CUZ
+Umberto D.,Time to Go,1322,5763,testset/CU/1322_005763.jpg,CUZ
+Umberto D.,Time to Go,1322,5910,testset/CU/1322_005910.jpg,CUZ
+Umberto D.,Time to Go,1322,6021,testset/CU/1322_006021.jpg,CUZ
+Umberto D.,Time to Go,1322,6110,testset/CU/1322_006110.jpg,CUZ
+Umberto D.,Time to Go,1322,6389,testset/CU/1322_006389.jpg,CUZ
+Umberto D.,Time to Go,1322,6596,testset/CU/1322_006596.jpg,CUZ
+Umberto D.,Time to Go,1322,6686,testset/CU/1322_006686.jpg,CUZ
+Adaptation,Don't Say Industry,7,0,testset/CU/7_000000.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,141,testset/CU/1427_000141.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,185,testset/CU/1427_000185.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,338,testset/CU/1427_000338.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,358,testset/CU/1427_000358.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,465,testset/CU/1427_000465.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,493,testset/CU/1427_000493.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,595,testset/CU/1427_000595.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,621,testset/CU/1427_000621.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,671,testset/CU/1427_000671.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,755,testset/CU/1427_000755.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,934,testset/CU/1427_000934.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,948,testset/CU/1427_000948.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1022,testset/CU/1427_001022.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1107,testset/CU/1427_001107.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1259,testset/CU/1427_001259.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1331,testset/CU/1427_001331.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1401,testset/CU/1427_001401.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1442,testset/CU/1427_001442.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1559,testset/CU/1427_001559.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1669,testset/CU/1427_001669.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1705,testset/CU/1427_001705.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1783,testset/CU/1427_001783.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,1880,testset/CU/1427_001880.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2034,testset/CU/1427_002034.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2102,testset/CU/1427_002102.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2195,testset/CU/1427_002195.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2202,testset/CU/1427_002202.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2282,testset/CU/1427_002282.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2294,testset/CU/1427_002294.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2324,testset/CU/1427_002324.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2394,testset/CU/1427_002394.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2435,testset/CU/1427_002435.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2449,testset/CU/1427_002449.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2473,testset/CU/1427_002473.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2521,testset/CU/1427_002521.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2618,testset/CU/1427_002618.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2633,testset/CU/1427_002633.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2639,testset/CU/1427_002639.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,2837,testset/CU/1427_002837.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3082,testset/CU/1427_003082.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3164,testset/CU/1427_003164.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3206,testset/CU/1427_003206.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3226,testset/CU/1427_003226.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3242,testset/CU/1427_003242.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3257,testset/CU/1427_003257.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3263,testset/CU/1427_003263.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3278,testset/CU/1427_003278.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3295,testset/CU/1427_003295.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3342,testset/CU/1427_003342.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3356,testset/CU/1427_003356.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3391,testset/CU/1427_003391.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3411,testset/CU/1427_003411.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3461,testset/CU/1427_003461.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3479,testset/CU/1427_003479.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3500,testset/CU/1427_003500.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3523,testset/CU/1427_003523.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3592,testset/CU/1427_003592.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3658,testset/CU/1427_003658.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3685,testset/CU/1427_003685.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,1078,testset/CU/950_001078.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,1801,testset/CU/950_001801.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2266,testset/CU/950_002266.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2604,testset/CU/950_002604.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2942,testset/CU/950_002942.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,3396,testset/CU/950_003396.jpg,CU
+The Diving Bell and the Butterfly,Does That Make a Book?,950,3562,testset/CU/950_003562.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,839,testset/CU/1380_000839.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,1344,testset/CU/1380_001344.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,7225,testset/CU/1380_007225.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10220,testset/CU/1380_010220.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10482,testset/CU/1380_010482.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10594,testset/CU/1380_010594.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10709,testset/CU/1380_010709.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,11235,testset/CU/1380_011235.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,1956,testset/CU/357_001956.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,2012,testset/CU/357_002012.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,2096,testset/CU/357_002096.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,2212,testset/CU/357_002212.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,2254,testset/CU/357_002254.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,5922,testset/CU/357_005922.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,5343,testset/CU/357_005343.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,6353,testset/CU/357_006353.jpg,CUZ
+The Birth of a Nation,Assassination of Lincoln,74,1594,testset/CU/74_001594.jpg,CU
+The Cabinet of Dr. Caligari,Cesare Awakens,292,15,testset/CU/292_000015.jpg,CU
+The Cabinet of Dr. Caligari,Cesare Awakens,292,1523,testset/CU/292_001523.jpg,CU
+For Whom the Bell Tolls,Airplanes and Scouting,147,50,testset/CU/147_000050.jpg,SC
+For Whom the Bell Tolls,Airplanes and Scouting,147,2599,testset/CU/147_002599.jpg,SC
+Frances Ha,Bedtime For All Good Children,1370,1297,testset/CU/1370_001297.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,1346,testset/CU/1370_001346.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,1540,testset/CU/1370_001540.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,6407,testset/CU/1370_006407.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,6561,testset/CU/1370_006561.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,6701,testset/CU/1370_006701.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,6912,testset/CU/1370_006912.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7009,testset/CU/1370_007009.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7044,testset/CU/1370_007044.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7232,testset/CU/1370_007232.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7297,testset/CU/1370_007297.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7362,testset/CU/1370_007362.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7540,testset/CU/1370_007540.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,7751,testset/CU/1370_007751.jpg,CU
+Frances Ha,Bedtime For All Good Children,1370,9272,testset/CU/1370_009272.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,530,testset/CU/1307_000530.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,1816,testset/CU/1307_001816.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,1928,testset/CU/1307_001928.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,2177,testset/CU/1307_002177.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,2393,testset/CU/1307_002393.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,2717,testset/CU/1307_002717.jpg,CUZ
+Chaudhvin Ka Chand,Wedding Night,1307,2764,testset/CU/1307_002764.jpg,CUZ
+Mullholand Drive,Winkie's,1382,541,testset/CU/1382_000541.jpg,SC
+Mullholand Drive,Winkie's,1382,807,testset/CU/1382_000807.jpg,SC
+Mullholand Drive,Winkie's,1382,1810,testset/CU/1382_001810.jpg,SC
+Mullholand Drive,Winkie's,1382,2083,testset/CU/1382_002083.jpg,SC
+Mullholand Drive,Winkie's,1382,2925,testset/CU/1382_002925.jpg,SC
+Mullholand Drive,Winkie's,1382,3285,testset/CU/1382_003285.jpg,SC
+Mullholand Drive,Winkie's,1382,4108,testset/CU/1382_004108.jpg,SC
+Mullholand Drive,Winkie's,1382,4423,testset/CU/1382_004423.jpg,SC
+Mullholand Drive,Winkie's,1382,4623,testset/CU/1382_004623.jpg,SC
+Mullholand Drive,Winkie's,1382,6784,testset/CU/1382_006784.jpg,SC
+Mullholand Drive,Winkie's,1382,6861,testset/CU/1382_006861.jpg,SC
+Moonrise Kingdom,Troop 55,1342,1446,testset/CU/1342_001446.jpg,CU
+Moonrise Kingdom,Troop 55,1342,3625,testset/CU/1342_003625.jpg,CU
+Moonrise Kingdom,Troop 55,1342,3708,testset/CU/1342_003708.jpg,CU
+Moonrise Kingdom,Troop 55,1342,4897,testset/CU/1342_004897.jpg,CU
+Moonrise Kingdom,Troop 55,1342,5145,testset/CU/1342_005145.jpg,CU
+Rashomon,Wars and Earthquakes,215,1731,testset/CU/215_001731.jpg,SS
+Rashomon,Wars and Earthquakes,215,1782,testset/CU/215_001782.jpg,SS
+Rashomon,Wars and Earthquakes,215,2606,testset/CU/215_002606.jpg,SS
+Rashomon,Wars and Earthquakes,215,2809,testset/CU/215_002809.jpg,SS
+Rashomon,Wars and Earthquakes,215,2899,testset/CU/215_002899.jpg,SS
+Rashomon,Wars and Earthquakes,215,3203,testset/CU/215_003203.jpg,SS
+Vertigo,Bell Tower,407,365,testset/CU/407_000365.jpg,CU
+Vertigo,Bell Tower,407,619,testset/CU/407_000619.jpg,CU
+Mullholand Drive,The Girl is Still Missing,1388,25,testset/CU/1388_000025.jpg,SC
+Mullholand Drive,The Girl is Still Missing,1388,446,testset/CU/1388_000446.jpg,SC
+Mullholand Drive,The Girl is Still Missing,1388,976,testset/CU/1388_000976.jpg,SC
+Mullholand Drive,The Girl is Still Missing,1388,1321,testset/CU/1388_001321.jpg,SC
+Mullholand Drive,The Girl is Still Missing,1388,1573,testset/CU/1388_001573.jpg,SC
+Mulholland Drive,El Club Silencio,1391,7087,testset/CU/1391_007087.jpg,CU
+Mulholland Drive,El Club Silencio,1391,7266,testset/CU/1391_007266.jpg,CU
+Mulholland Drive,El Club Silencio,1391,7610,testset/CU/1391_007610.jpg,CU
+Mulholland Drive,El Club Silencio,1391,7757,testset/CU/1391_007757.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8013,testset/CU/1391_008013.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8191,testset/CU/1391_008191.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8254,testset/CU/1391_008254.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8435,testset/CU/1391_008435.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8628,testset/CU/1391_008628.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8914,testset/CU/1391_008914.jpg,CU
+Mulholland Drive,El Club Silencio,1391,9102,testset/CU/1391_009102.jpg,CU
+Mulholland Drive,El Club Silencio,1391,9542,testset/CU/1391_009542.jpg,CU
+Mulholland Drive,El Club Silencio,1391,9840,testset/CU/1391_009840.jpg,CU
+Mulholland Drive,El Club Silencio,1391,10310,testset/CU/1391_010310.jpg,CU
+Mulholland Drive,El Club Silencio,1391,10346,testset/CU/1391_010346.jpg,CU
+Mulholland Drive,El Club Silencio,1391,10802,testset/CU/1391_010802.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11001,testset/CU/1391_011001.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11236,testset/CU/1391_011236.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11406,testset/CU/1391_011406.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11456,testset/CU/1391_011456.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11588,testset/CU/1391_011588.jpg,CU
+Mulholland Drive,El Club Silencio,1391,11629,testset/CU/1391_011629.jpg,CU
+The Producers,Springtime for Hitler,368,164,testset/CU/368_000164.jpg,CU
+The Producers,Springtime for Hitler,368,515,testset/CU/368_000515.jpg,CU
+Deewar,Temple,1349,252,testset/CU/1349_000252.jpg,CUZ
+Deewar,Temple,1349,2360,testset/CU/1349_002360.jpg,CUZ
+Deewar,Temple,1349,2612,testset/CU/1349_002612.jpg,CUZ
+Deewar,Temple,1349,4436,testset/CU/1349_004436.jpg,CUZ
+Deewar,Temple,1349,4601,testset/CU/1349_004601.jpg,CUZ
+Deewar,Temple,1349,5215,testset/CU/1349_005215.jpg,CUZ
+Exit Through the Gift Shop,Counterfeit,142,479,testset/CU/142_000479.jpg,CU
+Exit Through the Gift Shop,Counterfeit,142,519,testset/CU/142_000519.jpg,CU
+Exit Through the Gift Shop,Counterfeit,142,613,testset/CU/142_000613.jpg,CU
+Exit Through the Gift Shop,Counterfeit,142,788,testset/CU/142_000788.jpg,CU
+Exit Through the Gift Shop,Counterfeit,142,2853,testset/CU/142_002853.jpg,CU
+Moonrise Kingdom,Closing Sequence,1372,117,testset/CU/1372_000117.jpg,CU
+Moonrise Kingdom,Closing Sequence,1372,2536,testset/CU/1372_002536.jpg,CU
+Blade Runner,Deckard and Roy,56,1944,testset/CU/56_001944.jpg,CU
+Blade Runner,Deckard and Roy,56,2105,testset/CU/56_002105.jpg,CU
+Blade Runner,Deckard and Roy,56,2318,testset/CU/56_002318.jpg,CU
+Blade Runner,Deckard and Roy,56,2350,testset/CU/56_002350.jpg,CU
+Blade Runner,Deckard and Roy,56,2382,testset/CU/56_002382.jpg,CU
+Blade Runner,Deckard and Roy,56,2388,testset/CU/56_002388.jpg,CU
+Blade Runner,Deckard and Roy,56,2437,testset/CU/56_002437.jpg,CU
+Blade Runner,Deckard and Roy,56,2486,testset/CU/56_002486.jpg,CU
+Blade Runner,Deckard and Roy,56,2511,testset/CU/56_002511.jpg,CU
+Blade Runner,Deckard and Roy,56,2555,testset/CU/56_002555.jpg,CU
+Blade Runner,Deckard and Roy,56,2589,testset/CU/56_002589.jpg,CU
+Blade Runner,Deckard and Roy,56,2640,testset/CU/56_002640.jpg,CU
+Blade Runner,Deckard and Roy,56,2656,testset/CU/56_002656.jpg,CU
+Blade Runner,Deckard and Roy,56,2700,testset/CU/56_002700.jpg,CU
+Blade Runner,Deckard and Roy,56,2740,testset/CU/56_002740.jpg,CU
+Blade Runner,Deckard and Roy,56,2797,testset/CU/56_002797.jpg,CU
+Blade Runner,Deckard and Roy,56,3822,testset/CU/56_003822.jpg,CU
+Blade Runner,Deckard and Roy,56,4210,testset/CU/56_004210.jpg,CU
+Blade Runner,Deckard and Roy,56,4370,testset/CU/56_004370.jpg,CU
+Blade Runner,Deckard and Roy,56,4829,testset/CU/56_004829.jpg,CU
+Blade Runner,Deckard and Roy,56,4905,testset/CU/56_004905.jpg,CU
+Blade Runner,Deckard and Roy,56,4927,testset/CU/56_004927.jpg,CU
+Blade Runner,Deckard and Roy,56,4976,testset/CU/56_004976.jpg,CU
+Blade Runner,Deckard and Roy,56,5207,testset/CU/56_005207.jpg,CU
+Blade Runner,Deckard and Roy,56,5512,testset/CU/56_005512.jpg,CU
+Blade Runner,Deckard and Roy,56,5823,testset/CU/56_005823.jpg,CU
+Blade Runner,Deckard and Roy,56,6280,testset/CU/56_006280.jpg,CU
+Blade Runner,Deckard and Roy,56,6785,testset/CU/56_006785.jpg,CU
+Blade Runner,Deckard and Roy,56,6905,testset/CU/56_006905.jpg,CU
+Blade Runner,Deckard and Roy,56,7491,testset/CU/56_007491.jpg,CU
+The Producers,Don't Jump on Bloom,366,1713,testset/CU/366_001713.jpg,CU
+The Cabinet of Dr. Caligari,Cesare Awakens,292,1,testset/CU/292_000001.jpg,CU
+Ex Machina,Eva Escapes,685,3253,testset/CU/685_003253.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10223,testset/CU/1380_010223.jpg,CU
+The Cabinet of Dr. Caligari,Cesare Awakens,292,821,testset/CU/292_000821.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,2279,testset/CU/136_002279.jpg,CU
+Rashomon,Wars and Earthquakes,215,3522,testset/CU/215_003522.jpg,SS
+For Whom the Bell Tolls,Bombing the Train,146,1775,testset/CU/146_001775.jpg,CU
+Moonrise Kingdom,Closing Sequence,1372,2610,testset/CU/1372_002610.jpg,CU
+Contagion,Beth Dies,738,417,testset/CU/738_000417.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,2219,testset/CU/357_002219.jpg,CUZ
+Mullholand Drive,Winkie's,1382,4332,testset/CU/1382_004332.jpg,SC
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7057,testset/CU/1297_007057.jpg,CU
+Ex Machina,Eva Escapes,685,2386,testset/CU/685_002386.jpg,CU
+Mullholand Drive,Winkie's,1382,1262,testset/CU/1382_001262.jpg,SC
+Schindler's List,The Girl in Red,242,3271,testset/CU/242_003271.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,1576,testset/CU/146_001576.jpg,CU
+Mullholand Drive,Winkie's,1382,2088,testset/CU/1382_002088.jpg,SC
+Umberto D,At The Dog Pound,1316,5471,testset/CU/1316_005471.jpg,CU
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7033,testset/CU/1297_007033.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3262,testset/CU/1427_003262.jpg,CU
+Blade Runner,Deckard and Roy,56,2795,testset/CU/56_002795.jpg,CU
+The Producers,Don't Jump on Bloom,366,1507,testset/CU/366_001507.jpg,CU
+Adaptation,Don't Say Industry,7,5,testset/CU/7_000005.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,2732,testset/CU/924_002732.jpg,CU
+For Whom the Bell Tolls,Airplanes and Scouting,147,289,testset/CU/147_000289.jpg,SC
+Umberto D,At The Dog Pound,1316,5296,testset/CU/1316_005296.jpg,CU
+Snow White and the Seven Dwarfs,The Transformation,255,1354,testset/CU/255_001354.jpg,CUT
+For Whom the Bell Tolls,Airplanes and Scouting,147,277,testset/CU/147_000277.jpg,SC
+Moonrise Kingdom,Troop 55,1342,5111,testset/CU/1342_005111.jpg,CU
+Exit Through the Gift Shop,Thierry's Process,136,770,testset/CU/136_000770.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8654,testset/CU/1391_008654.jpg,CU
+Umberto D.,Time to Go,1322,6718,testset/CU/1322_006718.jpg,CUZ
+Mullholand Drive,Winkie's,1382,3048,testset/CU/1382_003048.jpg,SC
+Battleship Potemkin,Drama on Deck,31,2818,testset/CU/31_002818.jpg,CU
+The Cabinet of Dr. Caligari,Cesare Awakens,292,14,testset/CU/292_000014.jpg,CU
+The Producers,Don't Jump on Bloom,366,1826,testset/CU/366_001826.jpg,CU
+Exit Through the Gift Shop,Counterfeit,142,514,testset/CU/142_000514.jpg,CU
+Blade Runner,Deckard and Roy,56,2802,testset/CU/56_002802.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,497,testset/CU/146_000497.jpg,CU
+Contagion,Beth Dies,738,37,testset/CU/738_000037.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2211,testset/CU/1303_002211.jpg,CU
+Mullholand Drive,Winkie's,1382,4417,testset/CU/1382_004417.jpg,SC
+Moonrise Kingdom,Troop 55,1342,3657,testset/CU/1342_003657.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,2233,testset/CU/357_002233.jpg,CUZ
+Battleship Potemkin,Drama on Deck,31,2972,testset/CU/31_002972.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2450,testset/CU/1324_002450.jpg,CU
+The Last Laugh,Drunken Dreams,344,2355,testset/CU/344_002355.jpg,SS
+A Fistful of Dollars,You Filthy Dog,144,2077,testset/CU/144_002077.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,793,testset/CU/1303_000793.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,2184,testset/CU/1307_002184.jpg,CUZ
+Exit Through the Gift Shop,Thierry's Process,136,970,testset/CU/136_000970.jpg,CU
+The Birth of a Nation,Assassination of Lincoln,74,1634,testset/CU/74_001634.jpg,CU
+Mulholland Drive,El Club Silencio,1391,9319,testset/CU/1391_009319.jpg,CU
+Schindler's List,The Girl in Red,242,2838,testset/CU/242_002838.jpg,CU
+Umberto D.,Time to Go,1322,6474,testset/CU/1322_006474.jpg,CUZ
+Battleship Potemkin,Drama on Deck,31,3113,testset/CU/31_003113.jpg,CU
+Mulholland Drive,El Club Silencio,1391,7545,testset/CU/1391_007545.jpg,CU
+Deewar,Temple,1349,4592,testset/CU/1349_004592.jpg,CUZ
+Schindler's List,The Girl in Red,242,367,testset/CU/242_000367.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,1387,testset/CU/1380_001387.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1546,testset/CU/31_001546.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,1938,testset/CU/357_001938.jpg,CUZ
+The Birth of a Nation,Assassination of Lincoln,74,1623,testset/CU/74_001623.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1545,testset/CU/31_001545.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,10271,testset/CU/1303_010271.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,496,testset/CU/146_000496.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,5955,testset/CU/357_005955.jpg,CUZ
+Frances Ha,Bedtime For All Good Children,1370,9289,testset/CU/1370_009289.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2231,testset/CU/1303_002231.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,2363,testset/CU/1307_002363.jpg,CUZ
+The Birth of a Nation,The Stoneman and Cameron Families,1303,10344,testset/CU/1303_010344.jpg,CU
+Blade Runner,Deckard and Roy,56,7541,testset/CU/56_007541.jpg,CU
+Rashomon,Wars and Earthquakes,215,2897,testset/CU/215_002897.jpg,SS
+Rashomon,Wars and Earthquakes,215,2833,testset/CU/215_002833.jpg,SS
+Ex Machina,Eva Escapes,685,909,testset/CU/685_000909.jpg,CU
+Adaptation,Don't Say Industry,7,2,testset/CU/7_000002.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,2414,testset/CU/1307_002414.jpg,CUZ
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,4223,testset/CU/924_004223.jpg,CU
+The Last Laugh,Drunken Dreams,344,658,testset/CU/344_000658.jpg,SS
+Contagion,Beth Dies,738,189,testset/CU/738_000189.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,1626,testset/CU/146_001626.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,654,testset/CU/1380_000654.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3463,testset/CU/1427_003463.jpg,CU
+Moonrise Kingdom,Closing Sequence,1372,131,testset/CU/1372_000131.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,672,testset/CU/1303_000672.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2290,testset/CU/1303_002290.jpg,CU
+Umberto D.,Time to Go,1322,5734,testset/CU/1322_005734.jpg,CUZ
+Deewar,Temple,1349,4596,testset/CU/1349_004596.jpg,CUZ
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3178,testset/CU/1324_003178.jpg,CU
+Mullholand Drive,Winkie's,1382,4409,testset/CU/1382_004409.jpg,SC
+Umberto D,At The Dog Pound,1316,5342,testset/CU/1316_005342.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,488,testset/CU/146_000488.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,580,testset/CU/1307_000580.jpg,CUZ
+Moonrise Kingdom,Troop 55,1342,3731,testset/CU/1342_003731.jpg,CU
+Mullholand Drive,The Girl is Still Missing,1388,1279,testset/CU/1388_001279.jpg,SC
+A Fistful of Dollars,You Filthy Dog,144,3781,testset/CU/144_003781.jpg,CU
+Moonrise Kingdom,Troop 55,1342,1423,testset/CU/1342_001423.jpg,CU
+Contagion,Beth Dies,738,284,testset/CU/738_000284.jpg,CU
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1925,testset/CU/1303_001925.jpg,CU
+A Special Day,The End of the Night,1293,4354,testset/CU/1293_004354.jpg,CU
+Schindler's List,The Girl in Red,242,2892,testset/CU/242_002892.jpg,CU
+A Special Day,The End of the Night,1293,4309,testset/CU/1293_004309.jpg,CU
+The Matrix,Welcome to the Desert of the Real,357,2253,testset/CU/357_002253.jpg,CUZ
+Battleship Potemkin,Drama on Deck,31,505,testset/CU/31_000505.jpg,CU
+Blade Runner,Deckard and Roy,56,3985,testset/CU/56_003985.jpg,CU
+Mullholand Drive,Winkie's,1382,711,testset/CU/1382_000711.jpg,SC
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7018,testset/CU/1297_007018.jpg,CU
+Umberto D.,Time to Go,1322,5781,testset/CU/1322_005781.jpg,CUZ
+A Special Day,The End of the Night,1293,3601,testset/CU/1293_003601.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,3459,testset/CU/1427_003459.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,4,testset/CU/924_000004.jpg,CU
+Battleship Potemkin,Drama on Deck,31,1557,testset/CU/31_001557.jpg,CU
+The Passion of Joan of Arc,Torture Devices,1427,753,testset/CU/1427_000753.jpg,CU
+Vertigo,Bell Tower,407,605,testset/CU/407_000605.jpg,CU
+Adaptation,Don't Say Industry,7,3,testset/CU/7_000003.jpg,CU
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7074,testset/CU/1297_007074.jpg,CU
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7043,testset/CU/1297_007043.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2827,testset/CU/1324_002827.jpg,CU
+Rashomon,Wars and Earthquakes,215,2822,testset/CU/215_002822.jpg,SS
+Exit Through the Gift Shop,Thierry's Process,136,734,testset/CU/136_000734.jpg,CU
+The Producers,Springtime for Hitler,368,155,testset/CU/368_000155.jpg,CU
+Mulholland Drive,El Club Silencio,1391,7967,testset/CU/1391_007967.jpg,CU
+Ex Machina,Eva Escapes,685,6903,testset/CU/685_006903.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,445,testset/CU/924_000445.jpg,CU
+Chaudhvin Ka Chand,Wedding Night,1307,2848,testset/CU/1307_002848.jpg,CUZ
+The Passion of Joan of Arc,Torture Devices,1427,3458,testset/CU/1427_003458.jpg,CU
+A Fistful of Dollars,You Filthy Dog,144,3824,testset/CU/144_003824.jpg,CU
+The Last Laugh,Drunken Dreams,344,2375,testset/CU/344_002375.jpg,SS
+Battleship Potemkin,Drama on Deck,31,3118,testset/CU/31_003118.jpg,CU
+Mullholand Drive,Winkie's,1382,2092,testset/CU/1382_002092.jpg,SC
+Umberto D.,Time to Go,1322,6007,testset/CU/1322_006007.jpg,CUZ
+For Whom the Bell Tolls,Airplanes and Scouting,147,64,testset/CU/147_000064.jpg,SC
+Blade Runner,Deckard and Roy,56,2761,testset/CU/56_002761.jpg,CU
+Mullholand Drive,Winkie's,1382,510,testset/CU/1382_000510.jpg,SC
+Umberto D.,Time to Go,1322,6039,testset/CU/1322_006039.jpg,CUZ
+The Matrix,Welcome to the Desert of the Real,357,2151,testset/CU/357_002151.jpg,CUZ
+Schindler's List,The Girl in Red,242,2946,testset/CU/242_002946.jpg,CU
+Suspiria,Suzy Follows the Footsteps,1380,10224,testset/CU/1380_010224.jpg,CU
+Mullholand Drive,The Girl is Still Missing,1388,1261,testset/CU/1388_001261.jpg,SC
+Exit Through the Gift Shop,Counterfeit,142,2935,testset/CU/142_002935.jpg,CU
+Battleship Potemkin,Drama on Deck,31,2824,testset/CU/31_002824.jpg,CU
+Deewar,Temple,1349,248,testset/CU/1349_000248.jpg,CUZ
+Umberto D.,Time to Go,1322,883,testset/CU/1322_000883.jpg,CUZ
+The Last Laugh,Drunken Dreams,344,1891,testset/CU/344_001891.jpg,SS
+Suspiria,Suzy Follows the Footsteps,1380,1136,testset/CU/1380_001136.jpg,CU
+Vertigo,Bell Tower,407,609,testset/CU/407_000609.jpg,CU
+The Last Laugh,Drunken Dreams,344,585,testset/CU/344_000585.jpg,SS
+Umberto D,At The Dog Pound,1316,5307,testset/CU/1316_005307.jpg,CU
+Contagion,Beth Dies,738,422,testset/CU/738_000422.jpg,CU
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,7011,testset/CU/1297_007011.jpg,CU
+Mulholland Drive,El Club Silencio,1391,8765,testset/CU/1391_008765.jpg,CU
+Rashomon,Wars and Earthquakes,215,2066,testset/CU/215_002066.jpg,SS
+The Producers,Don't Jump on Bloom,366,1424,testset/CU/366_001424.jpg,CU
+The Producers,Springtime for Hitler,368,102,testset/CU/368_000102.jpg,CU
+For Whom the Bell Tolls,Bombing the Train,146,1593,testset/CU/146_001593.jpg,CU
+The Birth of a Nation,Assassination of Lincoln,74,1600,testset/CU/74_001600.jpg,CU
+Rashomon,Wars and Earthquakes,215,3524,testset/CU/215_003524.jpg,SS
+The Producers,Springtime for Hitler,368,550,testset/CU/368_000550.jpg,CU
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2928,testset/CU/1324_002928.jpg,CU
+The Producers,Don't Jump on Bloom,366,1946,testset/CU/366_001946.jpg,CU
+The Producers,Springtime for Hitler,368,111,testset/CU/368_000111.jpg,CU
+Deewar,Temple,1349,2605,testset/CU/1349_002605.jpg,CUZ
+Vertigo,Bell Tower,407,344,testset/CU/407_000344.jpg,CU
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3632,testset/non-CU/924_003632.jpg,N/A
+A Special Day,The End of the Night,1293,4728,testset/non-CU/1293_004728.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,3066,testset/non-CU/31_003066.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2091,testset/non-CU/1303_002091.jpg,N/A
+Schindler's List,The Girl in Red,242,2165,testset/non-CU/242_002165.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,1222,testset/non-CU/1297_001222.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1834,testset/non-CU/255_001834.jpg,N/A
+The Last Laugh,Drunken Dreams,344,4687,testset/non-CU/344_004687.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,205,testset/non-CU/146_000205.jpg,N/A
+Ex Machina,Eva Escapes,685,2855,testset/non-CU/685_002855.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,2608,testset/non-CU/144_002608.jpg,N/A
+Dogman,The Bully in the Cage,1442,4174,testset/non-CU/1442_004174.jpg,N/A
+Adaptation,Don't Say Industry,7,1006,testset/non-CU/7_001006.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,10794,testset/non-CU/1380_010794.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,698,testset/non-CU/74_000698.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,6197,testset/non-CU/292_006197.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,3910,testset/non-CU/147_003910.jpg,N/A
+Mullholand Drive,Winkie's,1382,4507,testset/non-CU/1382_004507.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4790,testset/non-CU/1342_004790.jpg,N/A
+The Conformist,Celebration with Italo,304,3567,testset/non-CU/304_003567.jpg,N/A
+Vertigo,Bell Tower,407,228,testset/non-CU/407_000228.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1051,testset/non-CU/1388_001051.jpg,N/A
+The Producers,Springtime for Hitler,368,1338,testset/non-CU/368_001338.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,1005,testset/non-CU/142_001005.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,2827,testset/non-CU/1372_002827.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,322,testset/non-CU/1324_000322.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2547,testset/non-CU/344_002547.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,10419,testset/non-CU/950_010419.jpg,N/A
+Rashomon,Wars and Earthquakes,215,2257,testset/non-CU/215_002257.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,5305,testset/non-CU/1297_005305.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1989,testset/non-CU/255_001989.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1397,testset/non-CU/147_001397.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3346,testset/non-CU/1324_003346.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,41,testset/non-CU/1372_000041.jpg,N/A
+Adaptation,Don't Say Industry,7,1413,testset/non-CU/7_001413.jpg,N/A
+The Matrix,Welcome to the Desert of the Real,357,6467,testset/non-CU/357_006467.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,423,testset/non-CU/142_000423.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,295,testset/non-CU/292_000295.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,74,testset/non-CU/255_000074.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2016,testset/non-CU/344_002016.jpg,N/A
+Deewar,Temple,1349,3094,testset/non-CU/1349_003094.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,6100,testset/non-CU/292_006100.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,1270,testset/non-CU/1380_001270.jpg,N/A
+The Producers,Springtime for Hitler,368,46,testset/non-CU/368_000046.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,281,testset/non-CU/142_000281.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4666,testset/non-CU/1342_004666.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1046,testset/non-CU/1388_001046.jpg,N/A
+Deewar,Temple,1349,144,testset/non-CU/1349_000144.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,2161,testset/non-CU/147_002161.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,335,testset/non-CU/146_000335.jpg,N/A
+Frances Ha,Bedtime For All Good Children,1370,3948,testset/non-CU/1370_003948.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,2012,testset/non-CU/147_002012.jpg,N/A
+Dogman,The Bully in the Cage,1442,4475,testset/non-CU/1442_004475.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,275,testset/non-CU/1388_000275.jpg,N/A
+Umberto D,At The Dog Pound,1316,1128,testset/non-CU/1316_001128.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,1865,testset/non-CU/136_001865.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,3794,testset/non-CU/1297_003794.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,922,testset/non-CU/74_000922.jpg,N/A
+Adaptation,Don't Say Industry,7,143,testset/non-CU/7_000143.jpg,N/A
+Umberto D,At The Dog Pound,1316,5173,testset/non-CU/1316_005173.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,379,testset/non-CU/292_000379.jpg,N/A
+Vertigo,Bell Tower,407,819,testset/non-CU/407_000819.jpg,N/A
+A Special Day,The End of the Night,1293,107,testset/non-CU/1293_000107.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,34,testset/non-CU/1372_000034.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,547,testset/non-CU/142_000547.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,904,testset/non-CU/74_000904.jpg,N/A
+Dogman,The Bully in the Cage,1442,3774,testset/non-CU/1442_003774.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,757,testset/non-CU/142_000757.jpg,N/A
+Ex Machina,Eva Escapes,685,2851,testset/non-CU/685_002851.jpg,N/A
+Dogman,The Bully in the Cage,1442,4014,testset/non-CU/1442_004014.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1613,testset/non-CU/1388_001613.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1922,testset/non-CU/146_001922.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,1092,testset/non-CU/74_001092.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,142,testset/non-CU/1303_000142.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3135,testset/non-CU/924_003135.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3111,testset/non-CU/924_003111.jpg,N/A
+Ex Machina,Eva Escapes,685,5278,testset/non-CU/685_005278.jpg,N/A
+The Conformist,Celebration with Italo,304,1607,testset/non-CU/304_001607.jpg,N/A
+The Conformist,Celebration with Italo,304,1290,testset/non-CU/304_001290.jpg,N/A
+Rashomon,Wars and Earthquakes,215,1284,testset/non-CU/215_001284.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,1816,testset/non-CU/144_001816.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,1662,testset/non-CU/31_001662.jpg,N/A
+Vertigo,Bell Tower,407,100,testset/non-CU/407_000100.jpg,N/A
+Mullholand Drive,Winkie's,1382,902,testset/non-CU/1382_000902.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,10962,testset/non-CU/1380_010962.jpg,N/A
+Schindler's List,The Girl in Red,242,2522,testset/non-CU/242_002522.jpg,N/A
+Adaptation,Don't Say Industry,7,2157,testset/non-CU/7_002157.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,2353,testset/non-CU/255_002353.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,1622,testset/non-CU/31_001622.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,3051,testset/non-CU/31_003051.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,4488,testset/non-CU/1297_004488.jpg,N/A
+Adaptation,Don't Say Industry,7,1855,testset/non-CU/7_001855.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3617,testset/non-CU/924_003617.jpg,N/A
+Schindler's List,The Girl in Red,242,2087,testset/non-CU/242_002087.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1800,testset/non-CU/1303_001800.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,3726,testset/non-CU/31_003726.jpg,N/A
+Rashomon,Wars and Earthquakes,215,2226,testset/non-CU/215_002226.jpg,N/A
+Schindler's List,The Girl in Red,242,1285,testset/non-CU/242_001285.jpg,N/A
+Adaptation,Don't Say Industry,7,688,testset/non-CU/7_000688.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1585,testset/non-CU/255_001585.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1149,testset/non-CU/147_001149.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1726,testset/non-CU/146_001726.jpg,N/A
+Adaptation,Don't Say Industry,7,1334,testset/non-CU/7_001334.jpg,N/A
+Ex Machina,Eva Escapes,685,7119,testset/non-CU/685_007119.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1721,testset/non-CU/147_001721.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,2762,testset/non-CU/292_002762.jpg,N/A
+Vertigo,Bell Tower,407,910,testset/non-CU/407_000910.jpg,N/A
+Schindler's List,The Girl in Red,242,215,testset/non-CU/242_000215.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2710,testset/non-CU/950_002710.jpg,N/A
+Vertigo,Bell Tower,407,956,testset/non-CU/407_000956.jpg,N/A
+The Producers,Springtime for Hitler,368,33,testset/non-CU/368_000033.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,1485,testset/non-CU/142_001485.jpg,N/A
+Deewar,Temple,1349,4709,testset/non-CU/1349_004709.jpg,N/A
+A Special Day,The End of the Night,1293,3338,testset/non-CU/1293_003338.jpg,N/A
+Blade Runner,Deckard and Roy,56,6694,testset/non-CU/56_006694.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,727,testset/non-CU/142_000727.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,44,testset/non-CU/1303_000044.jpg,N/A
+Adaptation,Don't Say Industry,7,726,testset/non-CU/7_000726.jpg,N/A
+Mullholand Drive,Winkie's,1382,6933,testset/non-CU/1382_006933.jpg,N/A
+Adaptation,Don't Say Industry,7,375,testset/non-CU/7_000375.jpg,N/A
+The Passion of Joan of Arc,Torture Devices,1427,713,testset/non-CU/1427_000713.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1719,testset/non-CU/146_001719.jpg,N/A
+Adaptation,Don't Say Industry,7,1522,testset/non-CU/7_001522.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,268,testset/non-CU/142_000268.jpg,N/A
+Vertigo,Bell Tower,407,747,testset/non-CU/407_000747.jpg,N/A
+The Producers,Springtime for Hitler,368,40,testset/non-CU/368_000040.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,558,testset/non-CU/142_000558.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1549,testset/non-CU/147_001549.jpg,N/A
+Vertigo,Bell Tower,407,927,testset/non-CU/407_000927.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,114,testset/non-CU/924_000114.jpg,N/A
+A Special Day,The End of the Night,1293,1402,testset/non-CU/1293_001402.jpg,N/A
+Dogman,The Bully in the Cage,1442,3856,testset/non-CU/1442_003856.jpg,N/A
+Vertigo,Bell Tower,407,826,testset/non-CU/407_000826.jpg,N/A
+Adaptation,Don't Say Industry,7,1820,testset/non-CU/7_001820.jpg,N/A
+Blade Runner,Deckard and Roy,56,756,testset/non-CU/56_000756.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,188,testset/non-CU/292_000188.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2130,testset/non-CU/1303_002130.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,35,testset/non-CU/1372_000035.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3293,testset/non-CU/1324_003293.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,150,testset/non-CU/924_000150.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,53,testset/non-CU/1324_000053.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4251,testset/non-CU/147_004251.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,662,testset/non-CU/1324_000662.jpg,N/A
+Schindler's List,The Girl in Red,242,439,testset/non-CU/242_000439.jpg,N/A
+Ex Machina,Eva Escapes,685,3903,testset/non-CU/685_003903.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2117,testset/non-CU/1303_002117.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4956,testset/non-CU/1342_004956.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,2614,testset/non-CU/144_002614.jpg,N/A
+Dogman,The Bully in the Cage,1442,3867,testset/non-CU/1442_003867.jpg,N/A
+A Special Day,The End of the Night,1293,76,testset/non-CU/1293_000076.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1965,testset/non-CU/146_001965.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,2048,testset/non-CU/31_002048.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,8175,testset/non-CU/1380_008175.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,10644,testset/non-CU/1303_010644.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1179,testset/non-CU/147_001179.jpg,N/A
+Ex Machina,Eva Escapes,685,1466,testset/non-CU/685_001466.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,860,testset/non-CU/147_000860.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,5748,testset/non-CU/1303_005748.jpg,N/A
+Vertigo,Bell Tower,407,917,testset/non-CU/407_000917.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2612,testset/non-CU/344_002612.jpg,N/A
+A Special Day,The End of the Night,1293,116,testset/non-CU/1293_000116.jpg,N/A
+Mulholland Drive,El Club Silencio,1391,10562,testset/non-CU/1391_010562.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,6025,testset/non-CU/1297_006025.jpg,N/A
+Chaudhvin Ka Chand,Wedding Night,1307,2498,testset/non-CU/1307_002498.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2684,testset/non-CU/344_002684.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,1509,testset/non-CU/144_001509.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3573,testset/non-CU/1324_003573.jpg,N/A
+The Producers,Springtime for Hitler,368,21,testset/non-CU/368_000021.jpg,N/A
+Schindler's List,The Girl in Red,242,3569,testset/non-CU/242_003569.jpg,N/A
+The Last Laugh,Drunken Dreams,344,6570,testset/non-CU/344_006570.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4109,testset/non-CU/147_004109.jpg,N/A
+Ex Machina,Eva Escapes,685,8479,testset/non-CU/685_008479.jpg,N/A
+The Conformist,Celebration with Italo,304,637,testset/non-CU/304_000637.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,2027,testset/non-CU/147_002027.jpg,N/A
+Dogman,The Bully in the Cage,1442,4369,testset/non-CU/1442_004369.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,265,testset/non-CU/142_000265.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,2241,testset/non-CU/255_002241.jpg,N/A
+Umberto D,At The Dog Pound,1316,4812,testset/non-CU/1316_004812.jpg,N/A
+Vertigo,Bell Tower,407,686,testset/non-CU/407_000686.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,16,testset/non-CU/1372_000016.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4295,testset/non-CU/1342_004295.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3046,testset/non-CU/1324_003046.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1170,testset/non-CU/255_001170.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3669,testset/non-CU/1324_003669.jpg,N/A
+The Passion of Joan of Arc,Torture Devices,1427,261,testset/non-CU/1427_000261.jpg,N/A
+A Special Day,The End of the Night,1293,1447,testset/non-CU/1293_001447.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,549,testset/non-CU/142_000549.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,796,testset/non-CU/1388_000796.jpg,N/A
+Dogman,The Bully in the Cage,1442,5,testset/non-CU/1442_000005.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3330,testset/non-CU/924_003330.jpg,N/A
+Ex Machina,Eva Escapes,685,7587,testset/non-CU/685_007587.jpg,N/A
+Vertigo,Bell Tower,407,298,testset/non-CU/407_000298.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,1486,testset/non-CU/74_001486.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,2013,testset/non-CU/255_002013.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,3176,testset/non-CU/924_003176.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,14,testset/non-CU/146_000014.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,2930,testset/non-CU/136_002930.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,72,testset/non-CU/255_000072.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,2676,testset/non-CU/1372_002676.jpg,N/A
+The Conformist,Celebration with Italo,304,2560,testset/non-CU/304_002560.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1984,testset/non-CU/146_001984.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,340,testset/non-CU/292_000340.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,71,testset/non-CU/924_000071.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,3085,testset/non-CU/147_003085.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1860,testset/non-CU/146_001860.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4126,testset/non-CU/1342_004126.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,10952,testset/non-CU/1380_010952.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1062,testset/non-CU/1388_001062.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2237,testset/non-CU/344_002237.jpg,N/A
+Blade Runner,Deckard and Roy,56,3491,testset/non-CU/56_003491.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,1650,testset/non-CU/924_001650.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,4114,testset/non-CU/31_004114.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,3499,testset/non-CU/292_003499.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,78,testset/non-CU/74_000078.jpg,N/A
+Contagion,Beth Dies,738,2471,testset/non-CU/738_002471.jpg,N/A
+Dogman,The Bully in the Cage,1442,4480,testset/non-CU/1442_004480.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,5020,testset/non-CU/1297_005020.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1968,testset/non-CU/146_001968.jpg,N/A
+Adaptation,Don't Say Industry,7,1472,testset/non-CU/7_001472.jpg,N/A
+Mullholand Drive,Winkie's,1382,6161,testset/non-CU/1382_006161.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,728,testset/non-CU/142_000728.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1690,testset/non-CU/146_001690.jpg,N/A
+The Producers,Springtime for Hitler,368,26,testset/non-CU/368_000026.jpg,N/A
+The Last Laugh,Drunken Dreams,344,462,testset/non-CU/344_000462.jpg,N/A
+Ex Machina,Eva Escapes,685,3826,testset/non-CU/685_003826.jpg,N/A
+A Special Day,The End of the Night,1293,3200,testset/non-CU/1293_003200.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1241,testset/non-CU/255_001241.jpg,N/A
+The Last Laugh,Drunken Dreams,344,4800,testset/non-CU/344_004800.jpg,N/A
+Vertigo,Bell Tower,407,701,testset/non-CU/407_000701.jpg,N/A
+Ex Machina,Eva Escapes,685,6518,testset/non-CU/685_006518.jpg,N/A
+The Last Laugh,Drunken Dreams,344,1347,testset/non-CU/344_001347.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2688,testset/non-CU/950_002688.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,179,testset/non-CU/924_000179.jpg,N/A
+The Passion of Joan of Arc,Torture Devices,1427,274,testset/non-CU/1427_000274.jpg,N/A
+Vertigo,Bell Tower,407,711,testset/non-CU/407_000711.jpg,N/A
+Vertigo,Bell Tower,407,64,testset/non-CU/407_000064.jpg,N/A
+Rashomon,Wars and Earthquakes,215,2277,testset/non-CU/215_002277.jpg,N/A
+Ex Machina,Eva Escapes,685,2981,testset/non-CU/685_002981.jpg,N/A
+Umberto D,At The Dog Pound,1316,3084,testset/non-CU/1316_003084.jpg,N/A
+The Producers,Springtime for Hitler,368,25,testset/non-CU/368_000025.jpg,N/A
+Vertigo,Bell Tower,407,876,testset/non-CU/407_000876.jpg,N/A
+Dogman,The Bully in the Cage,1442,2031,testset/non-CU/1442_002031.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,5540,testset/non-CU/1342_005540.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,6853,testset/non-CU/1297_006853.jpg,N/A
+A Special Day,The End of the Night,1293,2380,testset/non-CU/1293_002380.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,51,testset/non-CU/1372_000051.jpg,N/A
+Umberto D,At The Dog Pound,1316,952,testset/non-CU/1316_000952.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1948,testset/non-CU/255_001948.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,280,testset/non-CU/146_000280.jpg,N/A
+Ex Machina,Eva Escapes,685,3143,testset/non-CU/685_003143.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,328,testset/non-CU/1342_000328.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,457,testset/non-CU/292_000457.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,3345,testset/non-CU/1297_003345.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,3615,testset/non-CU/147_003615.jpg,N/A
+A Special Day,The End of the Night,1293,2206,testset/non-CU/1293_002206.jpg,N/A
+Umberto D,At The Dog Pound,1316,4271,testset/non-CU/1316_004271.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,2017,testset/non-CU/292_002017.jpg,N/A
+Umberto D,At The Dog Pound,1316,4338,testset/non-CU/1316_004338.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,1689,testset/non-CU/924_001689.jpg,N/A
+The Last Laugh,Drunken Dreams,344,1192,testset/non-CU/344_001192.jpg,N/A
+The Last Laugh,Drunken Dreams,344,286,testset/non-CU/344_000286.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,1811,testset/non-CU/142_001811.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4073,testset/non-CU/1342_004073.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,248,testset/non-CU/1342_000248.jpg,N/A
+The Last Laugh,Drunken Dreams,344,456,testset/non-CU/344_000456.jpg,N/A
+Frances Ha,Bedtime For All Good Children,1370,593,testset/non-CU/1370_000593.jpg,N/A
+Schindler's List,The Girl in Red,242,820,testset/non-CU/242_000820.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,2889,testset/non-CU/31_002889.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2555,testset/non-CU/950_002555.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,758,testset/non-CU/147_000758.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,329,testset/non-CU/1303_000329.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1703,testset/non-CU/146_001703.jpg,N/A
+Dogman,The Bully in the Cage,1442,3147,testset/non-CU/1442_003147.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,804,testset/non-CU/74_000804.jpg,N/A
+Vertigo,Bell Tower,407,702,testset/non-CU/407_000702.jpg,N/A
+Vertigo,Bell Tower,407,135,testset/non-CU/407_000135.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1420,testset/non-CU/1388_001420.jpg,N/A
+Ex Machina,Eva Escapes,685,675,testset/non-CU/685_000675.jpg,N/A
+The Matrix,Welcome to the Desert of the Real,357,6482,testset/non-CU/357_006482.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1101,testset/non-CU/1388_001101.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,8512,testset/non-CU/1380_008512.jpg,N/A
+Schindler's List,The Girl in Red,242,782,testset/non-CU/242_000782.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,635,testset/non-CU/31_000635.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,5677,testset/non-CU/1380_005677.jpg,N/A
+Adaptation,Don't Say Industry,7,1003,testset/non-CU/7_001003.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2712,testset/non-CU/950_002712.jpg,N/A
+The Conformist,Celebration with Italo,304,123,testset/non-CU/304_000123.jpg,N/A
+The Last Laugh,Drunken Dreams,344,4841,testset/non-CU/344_004841.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,415,testset/non-CU/74_000415.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,310,testset/non-CU/1388_000310.jpg,N/A
+The Producers,Springtime for Hitler,368,32,testset/non-CU/368_000032.jpg,N/A
+Dogman,The Bully in the Cage,1442,3502,testset/non-CU/1442_003502.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1998,testset/non-CU/255_001998.jpg,N/A
+Mullholand Drive,Winkie's,1382,6522,testset/non-CU/1382_006522.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1824,testset/non-CU/255_001824.jpg,N/A
+Mullholand Drive,Winkie's,1382,2993,testset/non-CU/1382_002993.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2550,testset/non-CU/344_002550.jpg,N/A
+Vertigo,Bell Tower,407,745,testset/non-CU/407_000745.jpg,N/A
+Rashomon,Wars and Earthquakes,215,4492,testset/non-CU/215_004492.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,4399,testset/non-CU/950_004399.jpg,N/A
+Schindler's List,The Girl in Red,242,2491,testset/non-CU/242_002491.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,30,testset/non-CU/1372_000030.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,2429,testset/non-CU/292_002429.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2702,testset/non-CU/950_002702.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1297,testset/non-CU/147_001297.jpg,N/A
+Adaptation,Don't Say Industry,7,1759,testset/non-CU/7_001759.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2131,testset/non-CU/344_002131.jpg,N/A
+Mullholand Drive,Winkie's,1382,5141,testset/non-CU/1382_005141.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,10837,testset/non-CU/1380_010837.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,748,testset/non-CU/147_000748.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1728,testset/non-CU/146_001728.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,206,testset/non-CU/255_000206.jpg,N/A
+Ex Machina,Eva Escapes,685,4655,testset/non-CU/685_004655.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,172,testset/non-CU/924_000172.jpg,N/A
+Deewar,Temple,1349,2558,testset/non-CU/1349_002558.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,2332,testset/non-CU/147_002332.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,1237,testset/non-CU/147_001237.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,620,testset/non-CU/1388_000620.jpg,N/A
+Deewar,Temple,1349,56,testset/non-CU/1349_000056.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,764,testset/non-CU/74_000764.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,397,testset/non-CU/292_000397.jpg,N/A
+Adaptation,Don't Say Industry,7,1539,testset/non-CU/7_001539.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3349,testset/non-CU/1324_003349.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,10718,testset/non-CU/950_010718.jpg,N/A
+Ex Machina,Eva Escapes,685,3823,testset/non-CU/685_003823.jpg,N/A
+Adaptation,Don't Say Industry,7,118,testset/non-CU/7_000118.jpg,N/A
+Rashomon,Wars and Earthquakes,215,4533,testset/non-CU/215_004533.jpg,N/A
+Dogman,The Bully in the Cage,1442,1974,testset/non-CU/1442_001974.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,1985,testset/non-CU/144_001985.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,601,testset/non-CU/950_000601.jpg,N/A
+The Producers,Springtime for Hitler,368,1491,testset/non-CU/368_001491.jpg,N/A
+Mullholand Drive,Winkie's,1382,4264,testset/non-CU/1382_004264.jpg,N/A
+The Producers,Springtime for Hitler,368,1190,testset/non-CU/368_001190.jpg,N/A
+The Conformist,Celebration with Italo,304,1107,testset/non-CU/304_001107.jpg,N/A
+A Fistful of Dollars,You Filthy Dog,144,1671,testset/non-CU/144_001671.jpg,N/A
+Umberto D.,Time to Go,1322,5070,testset/non-CU/1322_005070.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,1773,testset/non-CU/136_001773.jpg,N/A
+Dogman,The Bully in the Cage,1442,2933,testset/non-CU/1442_002933.jpg,N/A
+Umberto D,At The Dog Pound,1316,4571,testset/non-CU/1316_004571.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,1257,testset/non-CU/142_001257.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,768,testset/non-CU/1297_000768.jpg,N/A
+Mullholand Drive,Winkie's,1382,2019,testset/non-CU/1382_002019.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,3982,testset/non-CU/292_003982.jpg,N/A
+Deewar,Temple,1349,5547,testset/non-CU/1349_005547.jpg,N/A
+Schindler's List,The Girl in Red,242,3575,testset/non-CU/242_003575.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,735,testset/non-CU/1297_000735.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,925,testset/non-CU/74_000925.jpg,N/A
+Mullholand Drive,Winkie's,1382,6163,testset/non-CU/1382_006163.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,5046,testset/non-CU/1342_005046.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,7879,testset/non-CU/950_007879.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1570,testset/non-CU/255_001570.jpg,N/A
+The Last Laugh,Drunken Dreams,344,5741,testset/non-CU/344_005741.jpg,N/A
+Vertigo,Bell Tower,407,803,testset/non-CU/407_000803.jpg,N/A
+The Passion of Joan of Arc,Torture Devices,1427,267,testset/non-CU/1427_000267.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,5733,testset/non-CU/1297_005733.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,3956,testset/non-CU/292_003956.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,270,testset/non-CU/146_000270.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,3144,testset/non-CU/147_003144.jpg,N/A
+Vertigo,Bell Tower,407,932,testset/non-CU/407_000932.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,117,testset/non-CU/1324_000117.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,1273,testset/non-CU/1380_001273.jpg,N/A
+The Conformist,Celebration with Italo,304,357,testset/non-CU/304_000357.jpg,N/A
+The Last Laugh,Drunken Dreams,344,216,testset/non-CU/344_000216.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,3194,testset/non-CU/1297_003194.jpg,N/A
+Schindler's List,The Girl in Red,242,2545,testset/non-CU/242_002545.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,2728,testset/non-CU/1372_002728.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,2518,testset/non-CU/950_002518.jpg,N/A
+Chaudhvin Ka Chand,Wedding Night,1307,3036,testset/non-CU/1307_003036.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,995,testset/non-CU/1297_000995.jpg,N/A
+Adaptation,Don't Say Industry,7,1198,testset/non-CU/7_001198.jpg,N/A
+Rashomon,Wars and Earthquakes,215,3091,testset/non-CU/215_003091.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,3000,testset/non-CU/142_003000.jpg,N/A
+The Conformist,Celebration with Italo,304,3246,testset/non-CU/304_003246.jpg,N/A
+Rashomon,Wars and Earthquakes,215,3079,testset/non-CU/215_003079.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,722,testset/non-CU/142_000722.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,409,testset/non-CU/1324_000409.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,9250,testset/non-CU/1380_009250.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,2102,testset/non-CU/1303_002102.jpg,N/A
+The Producers,Springtime for Hitler,368,846,testset/non-CU/368_000846.jpg,N/A
+Adaptation,Don't Say Industry,7,996,testset/non-CU/7_000996.jpg,N/A
+The Conformist,Celebration with Italo,304,731,testset/non-CU/304_000731.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,42,testset/non-CU/1372_000042.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,999,testset/non-CU/1342_000999.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,2990,testset/non-CU/1324_002990.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,2337,testset/non-CU/255_002337.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,529,testset/non-CU/292_000529.jpg,N/A
+Rashomon,Wars and Earthquakes,215,3878,testset/non-CU/215_003878.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4721,testset/non-CU/147_004721.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,586,testset/non-CU/74_000586.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,2404,testset/non-CU/1297_002404.jpg,N/A
+Umberto D,At The Dog Pound,1316,2095,testset/non-CU/1316_002095.jpg,N/A
+Adaptation,Don't Say Industry,7,811,testset/non-CU/7_000811.jpg,N/A
+Mullholand Drive,Winkie's,1382,6962,testset/non-CU/1382_006962.jpg,N/A
+The Producers,Springtime for Hitler,368,1070,testset/non-CU/368_001070.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,15,testset/non-CU/255_000015.jpg,N/A
+Schindler's List,The Girl in Red,242,171,testset/non-CU/242_000171.jpg,N/A
+Umberto D,At The Dog Pound,1316,2259,testset/non-CU/1316_002259.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,190,testset/non-CU/924_000190.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,4187,testset/non-CU/950_004187.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,2086,testset/non-CU/31_002086.jpg,N/A
+Dogman,The Bully in the Cage,1442,4,testset/non-CU/1442_000004.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4341,testset/non-CU/147_004341.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1040,testset/non-CU/1388_001040.jpg,N/A
+Moonrise Kingdom,Closing Sequence,1372,2814,testset/non-CU/1372_002814.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,4966,testset/non-CU/1342_004966.jpg,N/A
+A Special Day,The End of the Night,1293,1424,testset/non-CU/1293_001424.jpg,N/A
+Schindler's List,The Girl in Red,242,1097,testset/non-CU/242_001097.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,2008,testset/non-CU/146_002008.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,1664,testset/non-CU/142_001664.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1693,testset/non-CU/146_001693.jpg,N/A
+Dilwale Dulhania Le Jayenge,Born to Be Sacrificed,1324,3342,testset/non-CU/1324_003342.jpg,N/A
+The Conformist,Celebration with Italo,304,1312,testset/non-CU/304_001312.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,2493,testset/non-CU/142_002493.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,13,testset/non-CU/146_000013.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,181,testset/non-CU/255_000181.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1787,testset/non-CU/255_001787.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,464,testset/non-CU/292_000464.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,454,testset/non-CU/950_000454.jpg,N/A
+The Passion of Joan of Arc,Torture Devices,1427,546,testset/non-CU/1427_000546.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,2106,testset/non-CU/146_002106.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,733,testset/non-CU/1388_000733.jpg,N/A
+The Producers,Springtime for Hitler,368,1151,testset/non-CU/368_001151.jpg,N/A
+The Last Laugh,Drunken Dreams,344,4850,testset/non-CU/344_004850.jpg,N/A
+Ex Machina,Eva Escapes,685,5655,testset/non-CU/685_005655.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,362,testset/non-CU/292_000362.jpg,N/A
+Frances Ha,Bedtime For All Good Children,1370,9152,testset/non-CU/1370_009152.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,5315,testset/non-CU/1342_005315.jpg,N/A
+Blade Runner,Deckard and Roy,56,7342,testset/non-CU/56_007342.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1772,testset/non-CU/1303_001772.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,5703,testset/non-CU/1297_005703.jpg,N/A
+Deewar,Temple,1349,4770,testset/non-CU/1349_004770.jpg,N/A
+Deewar,Temple,1349,4816,testset/non-CU/1349_004816.jpg,N/A
+Adaptation,Don't Say Industry,7,2079,testset/non-CU/7_002079.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,1375,testset/non-CU/1388_001375.jpg,N/A
+The Producers,Springtime for Hitler,368,660,testset/non-CU/368_000660.jpg,N/A
+The Last Laugh,Drunken Dreams,344,2253,testset/non-CU/344_002253.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4695,testset/non-CU/147_004695.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,3904,testset/non-CU/1380_003904.jpg,N/A
+Dogman,The Bully in the Cage,1442,3899,testset/non-CU/1442_003899.jpg,N/A
+Ex Machina,Eva Escapes,685,3541,testset/non-CU/685_003541.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,979,testset/non-CU/74_000979.jpg,N/A
+Vertigo,Bell Tower,407,192,testset/non-CU/407_000192.jpg,N/A
+The Matrix,Welcome to the Desert of the Real,357,3638,testset/non-CU/357_003638.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,434,testset/non-CU/147_000434.jpg,N/A
+Chaudhvin Ka Chand,Wedding Night,1307,2496,testset/non-CU/1307_002496.jpg,N/A
+A Special Day,The End of the Night,1293,2638,testset/non-CU/1293_002638.jpg,N/A
+Rashomon,Wars and Earthquakes,215,3013,testset/non-CU/215_003013.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,351,testset/non-CU/292_000351.jpg,N/A
+Mullholand Drive,Winkie's,1382,7019,testset/non-CU/1382_007019.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,364,testset/non-CU/1303_000364.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,3017,testset/non-CU/142_003017.jpg,N/A
+Mullholand Drive,Winkie's,1382,3551,testset/non-CU/1382_003551.jpg,N/A
+Deewar,Temple,1349,5656,testset/non-CU/1349_005656.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,565,testset/non-CU/142_000565.jpg,N/A
+Ex Machina,Eva Escapes,685,303,testset/non-CU/685_000303.jpg,N/A
+Mulholland Drive,El Club Silencio,1391,10149,testset/non-CU/1391_010149.jpg,N/A
+For Whom the Bell Tolls,Bombing the Train,146,1913,testset/non-CU/146_001913.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,1777,testset/non-CU/1303_001777.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,553,testset/non-CU/142_000553.jpg,N/A
+Mullholand Drive,Winkie's,1382,272,testset/non-CU/1382_000272.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,530,testset/non-CU/292_000530.jpg,N/A
+Snow White and the Seven Dwarfs,The Transformation,255,1007,testset/non-CU/255_001007.jpg,N/A
+Vertigo,Bell Tower,407,199,testset/non-CU/407_000199.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,4905,testset/non-CU/147_004905.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,628,testset/non-CU/136_000628.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,0,testset/non-CU/1303_000000.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,1254,testset/non-CU/136_001254.jpg,N/A
+The Diving Bell and the Butterfly,Does That Make a Book?,950,93,testset/non-CU/950_000093.jpg,N/A
+The Diving Bell and the Butterfly,A Visit from a Long Lost Friend,924,1636,testset/non-CU/924_001636.jpg,N/A
+Exit Through the Gift Shop,Thierry's Process,136,2680,testset/non-CU/136_002680.jpg,N/A
+Vertigo,Bell Tower,407,783,testset/non-CU/407_000783.jpg,N/A
+The Conformist,Celebration with Italo,304,667,testset/non-CU/304_000667.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,6881,testset/non-CU/1303_006881.jpg,N/A
+The Producers,Springtime for Hitler,368,1220,testset/non-CU/368_001220.jpg,N/A
+Schindler's List,The Girl in Red,242,523,testset/non-CU/242_000523.jpg,N/A
+For Whom the Bell Tolls,Airplanes and Scouting,147,2299,testset/non-CU/147_002299.jpg,N/A
+The Conformist,Celebration with Italo,304,843,testset/non-CU/304_000843.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,5048,testset/non-CU/1342_005048.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,447,testset/non-CU/74_000447.jpg,N/A
+Adaptation,Don't Say Industry,7,1903,testset/non-CU/7_001903.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,3637,testset/non-CU/31_003637.jpg,N/A
+Adaptation,Don't Say Industry,7,770,testset/non-CU/7_000770.jpg,N/A
+Mullholand Drive,The Girl is Still Missing,1388,656,testset/non-CU/1388_000656.jpg,N/A
+Dogman,The Bully in the Cage,1442,4079,testset/non-CU/1442_004079.jpg,N/A
+Exit Through the Gift Shop,Counterfeit,142,84,testset/non-CU/142_000084.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,4526,testset/non-CU/1297_004526.jpg,N/A
+The Lonedale Operator,The Engineer Comes to the Rescue,1297,1436,testset/non-CU/1297_001436.jpg,N/A
+The Birth of a Nation,Assassination of Lincoln,74,1229,testset/non-CU/74_001229.jpg,N/A
+Adaptation,Don't Say Industry,7,1921,testset/non-CU/7_001921.jpg,N/A
+Schindler's List,The Girl in Red,242,836,testset/non-CU/242_000836.jpg,N/A
+Ex Machina,Eva Escapes,685,4151,testset/non-CU/685_004151.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,3078,testset/non-CU/31_003078.jpg,N/A
+The Birth of a Nation,The Stoneman and Cameron Families,1303,8459,testset/non-CU/1303_008459.jpg,N/A
+Contagion,Beth Dies,738,1309,testset/non-CU/738_001309.jpg,N/A
+Moonrise Kingdom,Troop 55,1342,5334,testset/non-CU/1342_005334.jpg,N/A
+Adaptation,Don't Say Industry,7,969,testset/non-CU/7_000969.jpg,N/A
+The Cabinet of Dr. Caligari,Cesare Awakens,292,427,testset/non-CU/292_000427.jpg,N/A
+Suspiria,Suzy Follows the Footsteps,1380,3254,testset/non-CU/1380_003254.jpg,N/A
+Schindler's List,The Girl in Red,242,521,testset/non-CU/242_000521.jpg,N/A
+Battleship Potemkin,Drama on Deck,31,1696,testset/non-CU/31_001696.jpg,N/A
